@@ -1,0 +1,13 @@
+# python 3.11.11
+notebook
+tqdm
+opencv-python
+joblib
+transformers
+torch
+torchvision
+matplotlib
+pandas
+timm
+dotenv
+albumentations

@@ -9,10 +9,28 @@ The 17K-Graffiti dataset and its pre-trained weights are available at this [link
 # Dataset Annotation
 The dataset boundary box annotations are in the directory `/dataset/`. It provides the annotations of training and testing sets individualy.  
 
+## Demo
+
+* Create a `.env` file, and add the path of the data downloaded and models.  
+  ```
+    DATA_PATH=/path_to/datasets/
+    MODEL_PATH=/path_to/models/
+  ```
+
+* See a quick tutorial through the provided jupyter notebook at `notebooks/dataset_processing.ipynb`.
+
+Besides, you can run a inference demo at `notebooks/inference_demo.ipynb`.
+
 # Requirements
 
-- **python** => 3.9  
-- **pytorch** => 1.9
+- **python** => 3.11  
+
+### Installation
+
+```
+pip install -r requirements.txt
+```
+
 
 # To Train
 In order to train the graffiti model from the scratch run the following code:
