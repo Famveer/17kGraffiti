@@ -1,4 +1,7 @@
 # 17K-Graffiti
+
+<img src="./.media/17kgraffiti.png"  height=400px;>
+
 This repository provides the graffiti dataset (17K-Graffiti) with the accepted paper "17K-Graffiti: Spatial and Crime Data Assessments in São Paulo City" on the VISAPP-2022 conference. The ultimate goal is to seek relations between Graffiti Incidence (as an spatial city’s element), and Crime Occurrences (as social offences). To this aim, we utilized this developed Graffiti detector to accomplish the goal of our project. 
 
 See a quick demo of our developed graffiti detector on the provided jupyter notebook at `demo.ipynb`. [Paper](https://fmorenovr.github.io/documents/papers/conferences/2022_VISAPP.pdf).
