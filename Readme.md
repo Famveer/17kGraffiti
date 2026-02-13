@@ -65,7 +65,7 @@ python to_detect.py --imageDir <Path to images>
                     --confidence <prediction confidence>
 ```
 
-### Citation
+# Citation
 
 ```
 @conference{lavi202217kgraffiti,
