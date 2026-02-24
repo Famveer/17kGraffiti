@@ -7,7 +7,8 @@ This repository provides the graffiti dataset (17K-Graffiti) with the accepted p
 See a quick demo of our developed graffiti detector on the provided jupyter notebook at `demo.ipynb`. [Paper](https://fmorenovr.github.io/documents/papers/conferences/2022_VISAPP.pdf).
 
 # Download Dataset and Pre-trained Weights:
-The 17K-Graffiti dataset and its pre-trained weights are available at this [link](https://drive.google.com/drive/folders/1kO67iUEZWFlG1HqvNfFb1dvKa_o4UebS?usp=sharing).
+The 17K-Graffiti dataset is available at this [link](https://drive.google.com/drive/folders/1kO67iUEZWFlG1HqvNfFb1dvKa_o4UebS?usp=sharing)  
+and its pre-trained weights are available [here](https://drive.google.com/drive/folders/1I2HrGK6iDVI0vWG6bAxANgODy_317rRF?usp=sharing).
 
 # Dataset Annotation
 The dataset boundary box annotations are in the directory `/dataset/`. It provides the annotations of training and testing sets individualy.  
